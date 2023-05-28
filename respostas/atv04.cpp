@@ -5,9 +5,10 @@ using namespace std;
 int main() {
     int a;
 
-    inicio:
+
 
     system("cls");
+    inicio:
     cout << "Digite um valor inteiro positivo: ";
     cin >> a;
 
